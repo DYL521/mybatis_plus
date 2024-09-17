@@ -1,7 +1,7 @@
 package com.dyl.mybatis_plus.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import com.dyl.mybatis_plus.pojo.User;
+import com.dyl.mybatis_plus.entity.User;
 
 /**
  * 在对应的mapper上实现基本的类baseMapper
